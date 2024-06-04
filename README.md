@@ -6,4 +6,4 @@ Meu nome é Julio Cesar
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-  ![](https://media1.tenor.com/m/NOGjHRHDL_cAAAAC/naruto-uzumaki-naruto.gif)
+  ![](https://media1.tenor.com/m/xKJ0blGgIlQAAAAC/dance-happy.gif)
